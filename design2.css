@@ -1,0 +1,42 @@
+body {
+	background-color:#849ACB;
+	margin:0px;
+	overflow:auto;
+	background-image:images/matrice-fond-st-jo.jpg;
+	background-repeat:repeat-x;
+	color: #849ACB;
+}
+
+
+.Style18 {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #F7CDB4;}
+.Style20 {font-size: 14px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; color: #133090;}
+.Style21 {font-family: Arial, Helvetica, sans-serif, Palatino, serif;font-size: 14px;font-weight: bold;color: #000000;}
+.Style22 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF;}
+.Style23 {font-family: Arial, Helvetica, sans-serif; font-size: 12px;color: #5b676c; text-align: justify;}
+.Style24 {font-family: Arial, Helvetica, sans-serif; font-size: 12px;font-weight: bold;color: #133090;}
+.Style25 {font-family: Arial, Helvetica, sans-serif; font-size: 12px;font-weight: normal;color: #000000;}
+.Style27 {font-family: Arial, Helvetica, sans-serif; font-size: 14px;font-weight: normal;color: #000000;}
+.Style29 {font-family: Arial, Helvetica, sans-serif; font-size: 12px;font-weight: bold;color: #000000;}
+.Style290 {font-family: Arial, Helvetica, sans-serif; font-size: 12px;font-weight: bold;color: #0B1B54;}
+.Style30 {font-family: Arial, Helvetica, sans-serif; font-size: 16px;color: #133090; font-weight: bold;}
+.Style31 {font-family: Arial, Helvetica, sans-serif; font-size: 11px;}
+.Style38 {font-family: Arial, Helvetica, sans-serif}
+.Style39 {font-size: 14px; font-style: italic;}
+.Style40 {font-family: Arial, Helvetica, sans-serif; color: #FFFFFF;font-size: 14px; font-weight: bold;}
+
+
+a:link {
+	color: #0B1B54;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #101B54;
+}
+a:hover {
+	text-decoration: none;
+	color: #A75B27;
+}
+a:active {
+	text-decoration: none;
+}

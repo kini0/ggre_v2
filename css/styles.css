@@ -1,0 +1,161 @@
+body {
+    font-family: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif;
+    color:black;
+    font-size:1em;
+    background-color:white;
+    margin:0;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: #0468B3;
+    text-decoration: none;
+}
+img {
+	border:none;
+}
+ul {
+    color: #0468B3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+label {
+	display:block;
+}
+fieldset {
+	width:auto;
+	display:block;
+	position:relative;
+	float:left;
+}
+th {
+	background-color:#E5E5E5;
+}
+#info_connexion {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+#info_compte {
+text-align: left;
+}
+#index-admin { color:#FFF; margin-left:auto; margin-right:auto; text-align:center; vertical-align:middle;}
+#index-admin a { color:#FFF; }
+#index-admin  li{
+	display:block;
+	list-style:none;
+	float:left;
+	width:220px;
+	height:140px;
+	text-align:center;
+	margin-right:19px;
+}
+#index-admin .orange{ background-color:#DE5617;}
+#index-admin .bleu{ background-color:#18519F;}
+#index-admin .vert{ background-color:#638203;}
+#index-admin .couleur1{ background-color:#062c65;text-align:left;padding:10px;width:auto;height:auto;}
+#index-admin .couleur2{ background-color:#ca0a20;text-align:left;padding:10px;width:auto;height:auto;}
+#index-admin .couleur3{ background-color:#a6bbdf;text-align:left;padding:10px;width:auto;height:auto;}
+#index-admin .bleu-fonce{ background-color:#032E49;}
+.details_compte {
+    width: 100px;
+}
+
+#total {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width:760px;
+    background-color:#FFFFFF;
+}
+
+#haut {
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 20px;
+}
+
+#contenu {
+    width:559px;
+    background-color:white;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+#error {
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: #990000;
+}
+#form-offre {
+	width:590px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#form-news {
+	width:780px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#titre, #date { width:380px; }
+#contenu_article { width:380px; height:290px; }
+.form-auth {
+	
+}
+.table {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+.table tr:hover {
+	background-color:#E4E4F1;
+}
+.big {
+	font-size:20px;
+	text-align:center;
+}
+.okay {
+	background-color:#C2F0E1;
+	border:solid #214F3E 1px;
+	color:#214F3E;
+	text-align:center;
+	padding:6px;
+}
+.nokay {
+	background-color:#FF0000;
+	border:solid #214F3E 1px;
+	color:#FFF;
+	text-align:center;
+	padding:6px;
+}
+.affaire {
+	background-color:#C9F;
+}
+input, textarea {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+}
+input[type=text] { width:225px; }
+textarea { width:225px; height:120px;}
+#index-admin .bordeaux{ background-color: #88244c;}
+#index-admin .emeraude{ background-color: #0FA29A;clear: both;height: 180px;margin-top: 19px;}
+#index-admin .rouge{ background-color: #A40D0D;margin-top: 19px;height: 270px;width: 295px;}
+#index-admin .vert_fonce{ background-color: #390;height: 180px;margin-top: 19px;width:300px;}
+
+
+.export_xls{
+	width:20%;
+	text-align:left;
+	margin:0 auto;
+	margin-top:30px;
+}
+
+.btn {
+	background-color: #ca0a20;
+	margin: 0 auto;
+}

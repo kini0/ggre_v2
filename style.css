@@ -1,0 +1,9 @@
+.ui-front
+{
+    z-index: 9999 !important;
+}
+
+@media (max-width: 640px)
+{
+
+}
